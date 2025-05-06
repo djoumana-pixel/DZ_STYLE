@@ -2,7 +2,7 @@ export const products = [
     {
         id: 1,
         name: "Traditional Djellaba",
-        image: "https://via.placeholder.com/300x400?text=Djellaba",
+        image: "https://www.mesbonnescopines.com/wp-content/uploads/2023/10/Djellaba-femme.jpg",
         price: 4500,
         views: 0,
         sold: 0,
@@ -11,7 +11,7 @@ export const products = [
     {
         id: 2,
         name: "Algerian Chechia",
-        image: "https://via.placeholder.com/300x400?text=Chechia",
+        image: "https://i.pinimg.com/736x/a7/c2/19/a7c219963a026ef9ddc1f214790df79b.jpg",
         price: 1500,
         views: 0,
         sold: 0,
@@ -20,7 +20,7 @@ export const products = [
     {
         id: 3,
         name: "Karakou Jacket",
-        image: "https://via.placeholder.com/300x400?text=Karakou",
+        image: "https://th.bing.com/th/id/OIP.cZYeRfVubiTbFa-8PQxE1QHaJ4?cb=iwc1&w=2244&h=2992&rs=1&pid=ImgDetMain",
         price: 7500,
         views: 0,
         sold: 0,
@@ -29,7 +29,7 @@ export const products = [
     {
         id: 4,
         name: "Burnous Cloak",
-        image: "https://via.placeholder.com/300x400?text=Burnous",
+        image: "https://i.pinimg.com/originals/af/3e/78/af3e782f0f2cd086ff44496a1c048884.jpg",
         price: 5500,
         views: 0,
         sold: 0,
@@ -37,8 +37,8 @@ export const products = [
     },
     {
         id: 5,
-        name: "Traditional Sarouel",
-        image: "https://via.placeholder.com/300x400?text=Sarouel",
+        name: "caftan",
+        image: "https://th.bing.com/th/id/R.098b0e554701b4059d51a285bc52bdd5?rik=dgwJg55A2TfL0A&riu=http%3a%2f%2fwww.caftan-ma.com%2fwp-content%2fuploads%2f2019%2f03%2fCaftan-marocain-simple-blanc.jpg&ehk=Y6sID2sUgW5adQYq2C8ZQYcsGmZS%2b1%2fG7GeCRd7imgA%3d&risl=&pid=ImgRaw&r=0",
         price: 3500,
         views: 0,
         sold: 0,
