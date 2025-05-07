@@ -1,4 +1,4 @@
-# Algerian Clothing Store
+# DZ  Style
 
 ## Project Description
 
@@ -6,16 +6,18 @@ This is a React-based e-commerce application for an Algerian clothing store, dev
 
 ## Setup Instructions
 
+#### copy the code from the repository and paste it in your project folder
+
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/djoumana-pixel/DZ_STYLE.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd algerian-clothing-store
+   cd DZ_STYLE/
    ```
 
 3. Install dependencies:
@@ -56,3 +58,9 @@ This is a React-based e-commerce application for an Algerian clothing store, dev
 - Product data is stored in-memory but persists views and cart state via localStorage.
 - Styling uses Tailwind CSS with Google Fonts (Roboto) for a professional look.
 - The project is structured for scalability with separate components, context, and pages.
+
+## Owners
+- [KARI Djoumana](https://github.com/djoumana-pixel)
+- MAHRANE maria sarah
+- LAMANI Nawel
+- Meriem
